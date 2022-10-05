@@ -1,4 +1,3 @@
-# Supervised-Techniques-for-Parkinson-s-Disease-Detection
 Step 1: Load the dataset
 Step 2: Eye-ball raw data to get a feel of the data in terms of number of records, structure of the file, number of attributes, types of attributes and a general idea of likely challenges in the dataset. Mention a few comments in this regard
 We find that the 24 columns have following datatypes:
